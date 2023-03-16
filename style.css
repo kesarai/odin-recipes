@@ -1,4 +1,5 @@
 body {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         background-color: black;
         color: white;
 }
@@ -12,6 +13,7 @@ img {
     height: auto;
 }
 button {font-size: 25px;}
-#description {
-    background-color: yellow;
+.subtitle {
+    color: yellow;
+    font-size: 30px;
 }
